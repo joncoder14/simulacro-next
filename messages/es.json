@@ -1,0 +1,10 @@
+{
+  "appName": "CoSpace",
+  "home": "Inicio",
+  "spaces": "Espacios",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "dashboard": "Mis reservas",
+  "logout": "Cerrar sesión",
+  "admin": "Administración"
+}
